@@ -277,8 +277,15 @@ body{
 
   .main-section{
     margin: 0px 20px 0px 20px;
+    width: 95%;
    
   }
+
+  .auth-image{
+    width: 50%;
+    
+  }
+
 
 
 
