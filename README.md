@@ -12,11 +12,11 @@
 
 ## Responsive Portfolio Image View
 
-![alt text](https://github.com/atiftariq786/ "Basic Portfolio_About me")
+![alt text](https://github.com/atiftariq786/Responsive-Portfolio/blob/master/assets/images/About-me.png?raw=true "Basic Portfolio_About me")
 
-![alt text](https://github.com/atiftariq786/ "Basic Portfolio_Contact")
+![alt text](https://github.com/atiftariq786/Responsive-Portfolio/blob/master/assets/images/Contact.png?raw=true "Basic Portfolio_Contact")
 
-![alt text](https://github.com/atiftariq786/ "Basic Portfolio_Portfolio")
+![alt text](https://github.com/atiftariq786/Responsive-Portfolio/blob/master/assets/images/Portfolio.png?raw=true "Basic Portfolio_Portfolio")
 
 ## Getting Started
 
